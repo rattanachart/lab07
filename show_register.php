@@ -2,7 +2,7 @@
 // connect database
 $host = "localhost";
 $user = "it58160024";
-$passwd = "25391128";
+$passwd = "it58160024";
 $dbname = "it58160024";
 $conn = new mysqli($host,$user,$passwd,$dbname);
 $conn->query('SET NAMES UTF8');
